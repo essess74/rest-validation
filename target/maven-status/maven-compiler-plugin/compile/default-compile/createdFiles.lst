@@ -1,0 +1,7 @@
+com/example/validation/ValidationApplication.class
+com/example/validation/PhoneValidator.class
+com/example/validation/TestController.class
+com/example/validation/Phone.class
+com/example/validation/ExceptionHandling.class
+com/example/validation/PhoneObject.class
+com/example/validation/Person.class
